@@ -23,10 +23,11 @@ ii. Babel
 iii. Router : 
 
 can be optionally selected from here to make things easy.
-a.
-b. Choose version 3 or >
-c. Select dedicated config file
-d. And no presets.
+
+a. Choose version 3 or >
+b. Select dedicated config file
+c. And no presets.
+
 1.
 2. Navigate into the project created.
 3. Open code in VS Code by typing in 'code .'
