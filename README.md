@@ -13,6 +13,7 @@ V-bind:src - instead of using v-bind:src to attach variable values into source '
 1. In terminal type 'sudo npm install-g @vue/cli'.
 2. To check if the version is installed correctly, check with 'vue --version'.
 3. To view the GUI of Vue projects type in 'vue ui'.
+
 **Create a Vue project**
 After navigating to the project in which the project is expected to be created in
 Type in the command 'vue create %project-name%' - this will ask few questions.
