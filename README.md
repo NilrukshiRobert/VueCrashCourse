@@ -29,12 +29,12 @@ a. Choose version 3 or >
 b. Select dedicated config file
 c. And no presets.
 
-1.
-2. Navigate into the project created.
-3. Open code in VS Code by typing in 'code .'
+
+1. Navigate into the project created.
+2. Open code in VS Code by typing in 'code .'
 Run Dev Server from VSCode
-1. Open the integrated terminal.
-2. Type in 'npm run server'.
+  1. Open the integrated terminal.
+  2. Type in 'npm run server'.
 
 **Build for production deployment.**
 run 'npm run build' -> this will create a 'dist' folder that is used for deployment.
